@@ -1,18 +1,18 @@
-Bike_Sharing_Analysis :- 
-1.Objective :-The goal of this project is to predict the demand for bike rentals based on various factors such as weather conditions, time of year, and other relevant features.
+Bike_Sharing_Analysis :- -The goal of this project is to predict the demand for bike rentals based on various factors such as weather conditions, time of year, and other relevant features.
 
-2.Dataset Overview:
-•We've got this dataset that has a bunch of information in it, like temperature, humidity, wind speed, and how many bikes were rented out on different days. It's like a big spreadsheet with all this data in it, and we're going to use it to see if we can find any patterns or trends that might help us predict bike rentals in the future.
+Dataset Overview: We've got this dataset that has a bunch of information in it, like temperature, humidity, wind speed, and how many bikes were rented out on different days. It's like a big spreadsheet with all this data in it, and we're going to use it to see if we can find any patterns or trends that might help us predict bike rentals in the future.
 
-3. Table of Contents
+Table of Contents
 
-*General Information:
+1 .General Information: 
 
-#Loading the Dataset: We started by loading the dataset into our environment using Python libraries like pandas.
+# Exploratory Data Analysis (EDA) Steps:
 
-#Understanding the Data: After loading the dataset, we examined its structure, checked for any missing values, and gained a basic understanding of the variables.
+##Loading the Dataset: We started by loading the dataset into our environment using Python libraries like pandas.
+ 
+##Understanding the Data: After loading the dataset, we examined its structure, checked for any missing values, and gained a basic understanding of the variables.
 
-#Data Cleaning: We performed necessary data cleaning tasks such as handling missing values, correcting data types, and removing duplicates if any.
+##Data Cleaning: We performed necessary data cleaning tasks such as handling missing values, correcting data types, and removing duplicates if any.
 
 ##Uni-Variant Analysis: In this step, we analyzed each variable individually to understand its distribution and characteristics. We used histograms, box plots, and other visualizations to explore the data.
 
@@ -22,12 +22,15 @@ Bike_Sharing_Analysis :-
 
 These steps helped us uncover important insights about the dataset and laid the foundation for further analysis and modeling.
 
-*Tools Used:
+2. Tools Used:
+
 Python programming language
+
 Jupyter Notebook for coding and documentation
+
 Libraries such as pandas, numpy, seaborn, and scikit-learn for data manipulation, visualization, and model building.
 
-# [Conclusions](#conclusions)
+3. Conclusions
 
 What Makes People Rent Bikes: We looked at things like weather and time of day to figure out when people rent bikes the most. Turns out, people like to rent bikes when it's not too hot or too cold, and especially when it's not raining.
 
@@ -37,7 +40,7 @@ Weather Matters: The weather really affects bike rentals. If it's raining or sno
 
 Seasonal Patterns: Bike rentals change a lot with the seasons. More bikes are rented in the warmer months than in the colder ones.
 
-# [Acknowledgements](#acknowledgements)
+4. Acknowledgements
 Thanks to everyone who shared the data we used.
 Big shoutout to our team for helping clean up the data and make sense of it all.
 And of course, a huge thank you to our mentors and teachers for guiding us through the project.
