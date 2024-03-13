@@ -22,6 +22,26 @@ Table of Contents
 
 These steps helped us uncover important insights about the dataset and laid the foundation for further analysis and modeling.
 
+# Model Building Steps:
+
+##Build a multiple linear regression model
+
+##Initialize the linear regression model
+
+##Train the model on the training set
+
+##Train the model on the training set
+
+# Model Evaluation
+
+##Make predictions on the test set
+
+##Evaluate the model's performance
+
+##Calculate root mean squared error (RMSE)
+
+##Calculate R-squared score
+
 2. Tools Used:
 
 Python programming language
